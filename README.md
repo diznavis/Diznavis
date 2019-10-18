@@ -6,7 +6,7 @@ If you enjoy using this script, please consider donating. It took an enormous am
 Donation link: https://gogetfunding.com/ffbe-autoit-script/
 
 Download the entire package with all the required files at:
-https://drive.google.com/drive/folders/1MNWW7U-qE3sk8eFcf6pt7gvhNj2y6bOm?usp=sharing
+https://drive.google.com/drive/folders/1MNWW7U-qE3sk8eFcf6pt7gvhNj2y6bOm
 
 Requirements:
 
