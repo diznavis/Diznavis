@@ -26,3 +26,17 @@ Teamviewer (free) - remotely control the script. The script will automatically c
 
 Notes:
 FFBE-Macro.au3 is the main brains of the script. FastTMFarm.au3 is called by FFBE-Macro, it should not be operated on its own. It allows the script to continue to know what is going on while TM farming - it doesn't have to interrupt what it is doing to do the clicking.
+
+Getting Started:
+Set up a 64-bit computer, 768x1366 resolution or better
+install memu and tesseract
+set memu to use 576x1024 resolution (critical)
+Get your FFBE account working on Memu (must use amazon version at this time)
+Recommend turning off all extra visual effects
+Place FFBE icon in the top right of the first line of icon on the main home screen in memu
+create C:\FFBE Macro and unzip the zip file into that folder
+create C:\FFBE and place the FFBE.ini file there
+Edit FFBE.ini with any changes you need to make
+Create a shortcut to C:\FFBE Macro\FFBE-Macro.exe on the desktop. You'll also want one in the startup folder once you have everything working
+Test, hopefully everything is working for you
+
