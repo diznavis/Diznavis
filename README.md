@@ -23,3 +23,6 @@ FFBE account either linked to google (preferred) or one that won't ask to re-log
 Recommended:
 
 Teamviewer (free) - remotely control the script. The script will automatically clear the sponsored session messages so they won't break it
+
+Notes:
+FFBE-Macro.au3 is the main brains of the script. FastTMFarm.au3 is called by FFBE-Macro, it should not be operated on its own. It allows the script to continue to know what is going on while TM farming - it doesn't have to interrupt what it is doing to do the clicking.
